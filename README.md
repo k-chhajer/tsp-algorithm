@@ -16,3 +16,5 @@ This project solves a variation of the Travelling Salesman Problem (TSP) tailore
 
 ## Performance
 
+## Acknowledgement
+Shoutout to my teammates Luthira Abeykoon and Grace Hao
